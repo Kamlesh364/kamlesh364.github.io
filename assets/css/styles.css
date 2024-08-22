@@ -1203,7 +1203,7 @@ body.light-theme {
   }
 
   .services__container {
-    grid-template-columns: repeat(3, 177px);
+    grid-template-columns: repeat(2, 177px);
     justify-content: center;
   }
 
